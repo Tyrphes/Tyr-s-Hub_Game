@@ -1,5 +1,4 @@
--- Obfuscated by Bebas Obfuscator V.1 
-
+print("OBFED")
 
 local b64_chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
 local function llllIIlIIlII(data)
